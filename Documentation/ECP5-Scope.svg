@@ -3,8 +3,8 @@
 
 <svg
    width="590"
-   height="250.00002"
-   viewBox="0 0 156.10416 66.145839"
+   height="270.00009"
+   viewBox="0 0 156.10416 71.437526"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.1251252"
-     inkscape:cx="358.18235"
-     inkscape:cy="-1.3331849"
+     inkscape:zoom="4.5005008"
+     inkscape:cx="120.20884"
+     inkscape:cy="110.98765"
      inkscape:window-width="1916"
      inkscape:window-height="1036"
      inkscape:window-x="1680"
@@ -48,8 +48,9 @@
        id="grid844"
        spacingx="0.52916667"
        spacingy="0.52916667"
-       originx="5.2916636"
-       originy="-1.030586e-05" />
+       originx="5.2916631"
+       originy="5.2916733"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -57,17 +58,33 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-68.763931,-137.58334)">
+     transform="translate(-68.763931,-132.29166)">
     <rect
        style="opacity:0.98;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect161867"
        width="156.10417"
-       height="66.145836"
+       height="71.437523"
        x="68.763931"
-       y="137.58334" />
+       y="132.29166" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.991674;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="87.28476"
+       y="148.16667"
+       id="text4767-5-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan4765-6-0-65"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="87.28476"
+         y="148.16667">3 ns &lt;&lt; R * C &lt;&lt; 10 ms</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="87.28476"
+         y="150.37154"
+         id="tspan28438">R = 39 kΩ </tspan></text>
     <path
        style="opacity:0.991674;fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.794997, 0.264999;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       d="m 111.09726,140.22916 v 60.85417"
+       d="m 111.09726,134.9375 v 66.14583"
        id="path1195"
        sodipodi:nodetypes="cc" />
     <g
@@ -306,6 +323,28 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="117.97643"
          y="143.40417">1.2 V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;opacity:0.991674;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="112.15559"
+       y="137.58333"
+       id="text4767-5-3-9-90"><tspan
+         sodipodi:role="line"
+         id="tspan4765-6-0-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="112.15559"
+         y="137.58333">FPGA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;opacity:0.991674;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="110.03893"
+       y="137.58333"
+       id="text4767-5-3-9-90-7"><tspan
+         sodipodi:role="line"
+         id="tspan4765-6-0-6-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="110.03893"
+         y="137.58333">Discrete</tspan></text>
     <rect
        style="opacity:0.98;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect6626-2-6"
